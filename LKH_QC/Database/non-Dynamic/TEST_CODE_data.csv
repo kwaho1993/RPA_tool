@@ -1,0 +1,29 @@
+code,personal,slip,name,measure_type,report_type,equivocal,unit,info_equip
+DC0067,Virus,D55,"HBV DNA (Qn)[Real time PCR],Blood",정량,정량,,IU/mL,
+DC0066,Virus,D55,"HCV RNA (Qn)[(RT)-real time PCR],Blood",정량,정량,,IU/mL,
+DC0065,Virus,D55,"HIV RNA (Qn)[(RT)-real time PCR],Blood",정량,정량,,IU/mL,
+DA0014,EIA,D51,"Anti-HBe (Ql),Blood",정량,정성,,COI,
+DA0012,EIA,D51,"Anti-HBs (Ql),Blood",정량,정성,,COI,
+DA0018,EIA,D51,"Anti-HCV (Ql),Blood",정량,정성,,COI,E801_4
+DA0013,EIA,D51,"HBe Ag (Ql),Blood",정량,정성,,COI,
+DA0011,EIA,D51,"HBs Ag (Ql),Blood",정량,정성,,COI,
+DA0123,EIA,D51,"HBs Ag (Qn),Blood",정량,정량,,,
+DA0017,EIA,D51,"HIV Ag/Ab (Ql),Blood",정량,정성,,COI,E801_4
+DA0118,EIA,D51,"IgG/IgM anti-HAV (Ql),Blood",정량,정성,,COI,E801_2
+DA0016,EIA,D51,"IgG/IgM anti-HBc (Ql),Blood",정량,정성,,COI,
+DA0020,EIA,D51,"IgM anti-HAV (Ql),Blood",정량,정성,,COI,
+DA0015,EIA,D51,"IgM anti-HBc (Ql),Blood",정량,정성,,COI,
+CC0007,EIA,D56,"Interleukin-6 (Qn),Blood",정량,정량,,,E801_3
+DA0007,EIA,D51,"Syphilis reagin (Ql),Blood",정량,정성,,,
+DA0010,EIA,D51,"Treponema pallidum Ab (Ql),Blood",정량,정량,1,,E801_4
+CA0025,ALG,D56,"ANCA-MPO (Ql),Blood",정량,정성,?,,
+CA0026,ALG,D56,"ANCA-PR3 (Ql),Blood",정량,정성,?,,
+CD0105,ALG,D52,"Cat dander-specific IgE (Ql),Blood",정량,class,,,UNICAP
+CD0103,ALG,D52,"D.pteronyssinus-specific IgE (Ql),Blood",정량,class,,,UNICAP
+CA0012,ALG,D56,"ENA Ab(Jo-1) (Ql),Blood",정량,정성,,,
+CA0014,ALG,D56,"ENA Ab(RNP) (Ql),Blood",정량,정성,,,
+CA0021,ALG,D56,"ENA Ab(Scl-70) (Ql),Blood",정량,정성,,,
+CA0015,ALG,D56,"ENA Ab(Sm) (Ql),Blood",정량,정성,,,
+CA0019,ALG,D56,"ENA Ab(SS-A(Ro)) (Ql),Blood",정량,정성,,,
+CA0020,ALG,D56,"ENA Ab(SS-B(La)) (Ql),Blood",정량,정성,,,
+CD0133,ALG,D52,"Total IgE (Qn),Blood",정량,정량,,,

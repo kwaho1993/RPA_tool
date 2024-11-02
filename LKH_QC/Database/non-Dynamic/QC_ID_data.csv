@@ -1,0 +1,82 @@
+ID,personal,slip,code,name,info_level,info_equip,info_kit,info_reagent_change,info_nocv,info_no_lot,info_comment,info_combobox
+ZDC00673,Virus,D55,DC0067,"HBV DNA (Qn)[Real time PCR],Blood",N,,Virus_NEG,,1,,1,바이러스정량 NC
+ZDC00672,Virus,D55,DC0067,"HBV DNA (Qn)[Real time PCR],Blood",L,,Virus_POS,,,,,바이러스정량 PC
+ZDC00671,Virus,D55,DC0067,"HBV DNA (Qn)[Real time PCR],Blood",H,,Virus_POS,,,,1,바이러스정량 PC
+ZDC00663,Virus,D55,DC0066,"HCV RNA (Qn)[(RT)-real time PCR],Blood",N,,Virus_NEG,,1,,1,바이러스정량 NC
+ZDC00662,Virus,D55,DC0066,"HCV RNA (Qn)[(RT)-real time PCR],Blood",L,,Virus_POS,,,,,바이러스정량 PC
+ZDC00661,Virus,D55,DC0066,"HCV RNA (Qn)[(RT)-real time PCR],Blood",H,,Virus_POS,,,,1,바이러스정량 PC
+ZDC00653,Virus,D55,DC0065,"HIV RNA (Qn)[(RT)-real time PCR],Blood",N,,Virus_NEG,,1,,1,바이러스정량 NC
+ZDC00652,Virus,D55,DC0065,"HIV RNA (Qn)[(RT)-real time PCR],Blood",L,,Virus_POS,,,,,바이러스정량 PC
+ZDC00651,Virus,D55,DC0065,"HIV RNA (Qn)[(RT)-real time PCR],Blood",H,,Virus_POS,,,,1,바이러스정량 PC
+Z5123002,EIA,D51,DA0014,"Anti-HBe (Ql),Blood",P,,AHBE_Pos,,1,,,
+Z5123001,EIA,D51,DA0014,"Anti-HBe (Ql),Blood",N,,AHBE_Neg,,,,1,
+Z5121003,EIA,D51,DA0012,"Anti-HBs (Ql),Blood",H,,AHBS_QC,,,,,
+Z5121002,EIA,D51,DA0012,"Anti-HBs (Ql),Blood",L,,AHBS_QC,,,,,
+Z5121001,EIA,D51,DA0012,"Anti-HBs (Ql),Blood",N,,AHBS_QC,,1,,1,
+ZDA00184,EIA,D51,DA0018,"Anti-HCV (Ql),Blood",P,E801_4,AHCV_POS,,,1,,
+ZDA00183,EIA,D51,DA0018,"Anti-HCV (Ql),Blood",N,E801_4,AHCV_NEG,,1,1,,
+ZDA00182,EIA,D51,DA0018,"Anti-HCV (Ql),Blood",P,E801_3,AHCV_POS,,,1,,
+ZDA00181,EIA,D51,DA0018,"Anti-HCV (Ql),Blood",N,E801_3,AHCV_NEG,,1,1,,
+Z5129002,EIA,D51,DA0018,"Anti-HCV (Ql),Blood",P,E801_1,AHCV_POS,,,,,
+Z5129001,EIA,D51,DA0018,"Anti-HCV (Ql),Blood",N,E801_1,AHCV_NEG,,1,,1,
+Z5122002,EIA,D51,DA0013,"HBe Ag (Ql),Blood",P,,HBEAG_Pos,,,,,
+Z5122001,EIA,D51,DA0013,"HBe Ag (Ql),Blood",N,,HBEAG_Neg,,1,,1,
+Z5120002,EIA,D51,DA0011,"HBs Ag (Ql),Blood",P,,HBSAG_qual,,,,,
+Z5120001,EIA,D51,DA0011,"HBs Ag (Ql),Blood",N,,HBSAG_qual,,1,,1,
+Z5110003,EIA,D51,DA0123,"HBs Ag (Qn),Blood",H,,HBSAG_quant,,,,,"HBs Ag (Qn),Blood_정량검사"
+Z5110002,EIA,D51,DA0123,"HBs Ag (Qn),Blood",L,,HBSAG_quant,,,,,"HBs Ag (Qn),Blood_정량검사"
+Z5110001,EIA,D51,DA0123,"HBs Ag (Qn),Blood",N,,HBSAG_quant,,1,,1,"HBs Ag (Qn),Blood_정량검사"
+ZDA00176,EIA,D51,DA0017,"HIV Ag/Ab (Ql),Blood",H,E801_4,HIVAGAB_H,,,1,,
+ZDA00175,EIA,D51,DA0017,"HIV Ag/Ab (Ql),Blood",L,E801_4,HIVAGAB_L,,,1,,
+ZDA00173,EIA,D51,DA0017,"HIV Ag/Ab (Ql),Blood",H,E801_3,HIVAGAB_H,,,1,,
+ZDA00172,EIA,D51,DA0017,"HIV Ag/Ab (Ql),Blood",L,E801_3,HIVAGAB_L,,,1,,
+Z5126003,EIA,D51,DA0017,"HIV Ag/Ab (Ql),Blood",H,E801_1,HIVAGAB_H,,,,,
+Z5126002,EIA,D51,DA0017,"HIV Ag/Ab (Ql),Blood",L,E801_1,HIVAGAB_L,,,,,
+ZDA00174,EIA,D51,DA0017,"HIV Ag/Ab (Ql),Blood",N,E801_4,HIVAGAB_N,,1,1,,
+ZDA00171,EIA,D51,DA0017,"HIV Ag/Ab (Ql),Blood",N,E801_3,HIVAGAB_N,,1,1,,
+Z5126001,EIA,D51,DA0017,"HIV Ag/Ab (Ql),Blood",N,E801_1,HIVAGAB_N,,1,,1,
+Z5129031,EIA,D51,DA0118,"IgG/IgM anti-HAV (Ql),Blood",P,E801_2,AHAV_total_P,,,,1,
+ZDA01181,EIA,D51,DA0118,"IgG/IgM anti-HAV (Ql),Blood",P,E801_4,AHAV_total_P,,,1,,
+Z5129032,EIA,D51,DA0118,"IgG/IgM anti-HAV (Ql),Blood",N,E801_2,AHAV_total_N,,1,,,
+ZDA01182,EIA,D51,DA0118,"IgG/IgM anti-HAV (Ql),Blood",N,E801_4,AHAV_total_N,,1,1,,
+Z5125002,EIA,D51,DA0016,"IgG/IgM anti-HBc (Ql),Blood",N,,AHBC_total_N,,1,,,
+Z5125001,EIA,D51,DA0016,"IgG/IgM anti-HBc (Ql),Blood",P,,AHBC_total_P,,,,1,
+Z5129022,EIA,D51,DA0020,"IgM anti-HAV (Ql),Blood",P,,HAV_IgM_P,,,,,
+Z5129021,EIA,D51,DA0020,"IgM anti-HAV (Ql),Blood",N,,HAV_IgM_N,,1,,1,
+Z5124002,EIA,D51,DA0015,"IgM anti-HBc (Ql),Blood",P,,AHBC_IgM_P,,,,,
+Z5124001,EIA,D51,DA0015,"IgM anti-HBc (Ql),Blood",N,,AHBC_IgM_N,,1,,1,
+ZCC0007L,EIA,D56,CC0007,"Interleukin-6 (Qn),Blood",L,E801_3,IL6-L,,,,1,
+ZCC0007H,EIA,D56,CC0007,"Interleukin-6 (Qn),Blood",H,E801_3,IL6-H,,,,,
+Z5115012,EIA,D51,DA0007,"Syphilis reagin (Ql),Blood",P,,AU480_QC,,,,,
+Z5115011,EIA,D51,DA0007,"Syphilis reagin (Ql),Blood",N,,AU480_QC,,1,,1,
+ZDA00102,EIA,D51,DA0010,"Treponema pallidum Ab (Ql),Blood",P,E801_4,SYPH_P,,,,,
+ZDA00101,EIA,D51,DA0010,"Treponema pallidum Ab (Ql),Blood",N,E801_4,SYPH_N,,1,1,,
+Z5117002,EIA,D51,DA0010,"Treponema pallidum Ab (Ql),Blood",P,E801_2,SYPH_P,,,,,
+Z5117001,EIA,D51,DA0010,"Treponema pallidum Ab (Ql),Blood",N,E801_2,SYPH_N,,1,,1,
+Z5195011,ALG,D56,CA0025,"ANCA-MPO (Ql),Blood",P,,ANCA_POS,,,,1,ANCA Positive
+Z5195010,ALG,D56,CA0025,"ANCA-MPO (Ql),Blood",N,,Elia_NEG,,1,,1,Elia Negative
+Z5195013,ALG,D56,CA0026,"ANCA-PR3 (Ql),Blood",N,,Elia_NEG,,1,,1,Elia Negative
+Z5195012,ALG,D56,CA0026,"ANCA-PR3 (Ql),Blood",P,,ANCA_POS,,,,1,ANCA Positive
+Z5200017,ALG,D52,CD0105,"Cat dander-specific IgE (Ql),Blood",N,UNICAP,s_IgE_NEG,,1,,1,sepcific-IgE N
+Z5200015,ALG,D52,CD0105,"Cat dander-specific IgE (Ql),Blood",P,UNICAP,s_IgE_L,,,,1,specific-IgE L
+Z5200013,ALG,D52,CD0105,"Cat dander-specific IgE (Ql),Blood",N,UNICAP2,s_IgE_NEG,,1,,1,sepcific-IgE N
+Z5200011,ALG,D52,CD0105,"Cat dander-specific IgE (Ql),Blood",P,UNICAP2,s_IgE_L,,,,1,specific-IgE L
+Z5200018,ALG,D52,CD0103,"D.pteronyssinus-specific IgE (Ql),Blood",N,UNICAP,s_IgE_NEG,,1,,1,sepcific-IgE N
+Z5200016,ALG,D52,CD0103,"D.pteronyssinus-specific IgE (Ql),Blood",P,UNICAP,s_IgE_H,,,,1,specific-IgE H
+Z5200014,ALG,D52,CD0103,"D.pteronyssinus-specific IgE (Ql),Blood",N,UNICAP2,s_IgE_NEG,,1,,1,sepcific-IgE N
+Z5200012,ALG,D52,CD0103,"D.pteronyssinus-specific IgE (Ql),Blood",P,UNICAP2,s_IgE_H,,,,1,specific-IgE H
+Z5148002,ALG,D56,CA0012,"ENA Ab(Jo-1) (Ql),Blood",N,,Elia_NEG,,1,,1,Elia Negative
+Z5148001,ALG,D56,CA0012,"ENA Ab(Jo-1) (Ql),Blood",P,,ENA_POS,,,,1,ENA Positive
+Z5185032,ALG,D56,CA0014,"ENA Ab(RNP) (Ql),Blood",N,,Elia_NEG,,1,,1,Elia Negative
+Z5185031,ALG,D56,CA0014,"ENA Ab(RNP) (Ql),Blood",P,,ENA_POS,,,,1,ENA Positive
+Z5187002,ALG,D56,CA0021,"ENA Ab(Scl-70) (Ql),Blood",N,,Elia_NEG,,1,,1,Elia Negative
+Z5187001,ALG,D56,CA0021,"ENA Ab(Scl-70) (Ql),Blood",P,,ENA_POS,,,,1,ENA Positive
+Z5185042,ALG,D56,CA0015,"ENA Ab(Sm) (Ql),Blood",N,,Elia_NEG,,1,,1,Elia Negative
+Z5185041,ALG,D56,CA0015,"ENA Ab(Sm) (Ql),Blood",P,,ENA_POS,,,,1,ENA Positive
+Z5186032,ALG,D56,CA0019,"ENA Ab(SS-A(Ro)) (Ql),Blood",N,,Elia_NEG,,1,,1,Elia Negative
+Z5186031,ALG,D56,CA0019,"ENA Ab(SS-A(Ro)) (Ql),Blood",P,,ENA_POS,,,,1,ENA Positive
+Z5186042,ALG,D56,CA0020,"ENA Ab(SS-B(La)) (Ql),Blood",N,,Elia_NEG,,1,,1,Elia Negative
+Z5186041,ALG,D56,CA0020,"ENA Ab(SS-B(La)) (Ql),Blood",P,,ENA_POS,,,,1,ENA Positive
+Z5227003,ALG,D52,CD0133,"Total IgE (Qn),Blood",L,,t_IgE_L,,,,1,
+Z5227002,ALG,D52,CD0133,"Total IgE (Qn),Blood",M,,t_IgE_M,,,,1,
+Z5227001,ALG,D52,CD0133,"Total IgE (Qn),Blood",H,,t_IgE_H,,,,1,
